@@ -1,0 +1,29 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  owner_id: 1
+  renter_id: 1
+  make: MyString
+  model: MyString
+  year: 1
+  color: MyString
+  rating: 1
+  picture: MyString
+  description: MyString
+  transmission: MyString
+  engine_type: MyString
+  price: 1
+
+two:
+  owner_id: 1
+  renter_id: 1
+  make: MyString
+  model: MyString
+  year: 1
+  color: MyString
+  rating: 1
+  picture: MyString
+  description: MyString
+  transmission: MyString
+  engine_type: MyString
+  price: 1
